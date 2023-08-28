@@ -5,10 +5,10 @@ on:
             - "!README.md"
             - "!docs/**"
             - "**".js
-    branches: 
-        - 'main'
-        - 'release/**'
-        - '!dev'
+        branches: 
+            - 'main'
+            - 'release/**'
+            - '!dev'
 
 jobs:
     say-hello:
