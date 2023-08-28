@@ -1,1 +1,3 @@
-# set-up-CI-CD
+# Set up CI/CD in my first time
+
+# Check it!
