@@ -1,5 +1,6 @@
 name: hello world
 on:
+    push:
     branches: [main]
 
 jobs:
